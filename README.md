@@ -16,19 +16,20 @@ It has no launcher icon, and only Daily Workflow can open it: its screens
 require a permission granted only to apps signed with the same key. (The
 repository and file names are from when it was only YouTube's.)
 
-## Files (release v1.2)
+## Files (release v1.3)
 
 Daily Workflow downloads the file for the phone's processor and installs it
 only if its SHA-256 matches:
 
 | File | Processor | Bytes | SHA-256 |
 |---|---|---|---|
-| `youtube-arm64-v8a.apk` | phones | 79482760 | `9b87201a2b2eb07b77b1bc753cf353b73581f4c8767ddab4c309cf3313de5cf3` |
-| `youtube-x86_64.apk` | emulator | 83044840 | `1f8ad084739e690f29e4efc8a559a1996c5e204a75ab7110241cf020a3e9fff0` |
+| `youtube-arm64-v8a.apk` | phones | 79482760 | `f8b57e2bbc73d2f3cbe8c00d0c9860d6923628be3b559762d64012fbf195e07e` |
+| `youtube-x86_64.apk` | emulator | 83044840 | `421e91386a9bab427502d9774824998f23858e68918596cb591e152fa0543065` |
 
 ## Versions
 
-- **v1.2**: TikTok too (the accounts one follows; a single video, also one a friend sent, cannot be swiped to the next; the messages open in TikTok's version for computers, fitted to the phone's screen); windows a page opens (signing in with Google, Facebook…) work; the keyboard no longer covers what is typed; and the comments of a YouTube Short scroll again (only the swipe to the next Short is stopped).
+- **v1.3**: the keyboard no longer covers what is typed (the page shrinks above it).
+- **v1.2**: TikTok too (the accounts one follows; a single video, also one a friend sent, cannot be swiped to the next; the messages open in TikTok's version for computers, fitted to the phone's screen); windows a page opens (signing in with Google, Facebook…) work; and the comments of a YouTube Short scroll again (only the swipe to the next Short is stopped).
 - **v1.1**: the "Sign in" button is shown again (v1.0 hid it, so one could not sign in).
 - **v1.0**: first version.
 
