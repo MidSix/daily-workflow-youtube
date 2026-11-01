@@ -23,12 +23,12 @@ only if its SHA-256 matches:
 
 | File | Processor | Bytes | SHA-256 |
 |---|---|---|---|
-| `youtube-arm64-v8a.apk` | phones | 79482744 | `d100485aa3f3ac9282d765f968ac4fdf4e413076b5dc6481e508bde7a2115bb0` |
-| `youtube-x86_64.apk` | emulator | 83044824 | `b028668a8e1b7aa6d88a3d8a830c1a6cdbc60e3da751bd395e821465e7a468eb` |
+| `youtube-arm64-v8a.apk` | phones | 79482760 | `9b87201a2b2eb07b77b1bc753cf353b73581f4c8767ddab4c309cf3313de5cf3` |
+| `youtube-x86_64.apk` | emulator | 83044840 | `1f8ad084739e690f29e4efc8a559a1996c5e204a75ab7110241cf020a3e9fff0` |
 
 ## Versions
 
-- **v1.2**: TikTok too (the accounts one follows; a single video, also one a friend sent, cannot be swiped to the next; the messages open in TikTok's version for computers, fitted to the phone's screen); windows a page opens (signing in with Google, Facebook…) work; and the comments of a YouTube Short scroll again (only the swipe to the next Short is stopped).
+- **v1.2**: TikTok too (the accounts one follows; a single video, also one a friend sent, cannot be swiped to the next; the messages open in TikTok's version for computers, fitted to the phone's screen); windows a page opens (signing in with Google, Facebook…) work; the keyboard no longer covers what is typed; and the comments of a YouTube Short scroll again (only the swipe to the next Short is stopped).
 - **v1.1**: the "Sign in" button is shown again (v1.0 hid it, so one could not sign in).
 - **v1.0**: first version.
 
